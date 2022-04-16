@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\bin\Debug\net5.0\06Emcapsulamento.exe
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\bin\Debug\net5.0\06Emcapsulamento.deps.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\bin\Debug\net5.0\06Emcapsulamento.runtimeconfig.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\bin\Debug\net5.0\06Emcapsulamento.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\bin\Debug\net5.0\06Emcapsulamento.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\bin\Debug\net5.0\ref\06Emcapsulamento.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\bin\Debug\net5.0\06Emcapsulamento.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\06Emcapsulamento.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\06Emcapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\06Emcapsulamento.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\06Emcapsulamento.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\06Emcapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\06Emcapsulamento.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\ref\06Emcapsulamento.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\06Emcapsulamento.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\06Emcapsulamento\obj\Debug\net5.0\06Emcapsulamento.genruntimeconfig.cache
