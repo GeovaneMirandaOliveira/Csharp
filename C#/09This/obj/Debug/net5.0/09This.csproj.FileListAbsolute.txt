@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\bin\Debug\net5.0\09This.exe
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\bin\Debug\net5.0\09This.deps.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\bin\Debug\net5.0\09This.runtimeconfig.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\bin\Debug\net5.0\09This.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\bin\Debug\net5.0\09This.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\bin\Debug\net5.0\ref\09This.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\bin\Debug\net5.0\09This.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\09This.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\09This.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\09This.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\09This.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\09This.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\ref\09This.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\09This.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\09This\obj\Debug\net5.0\09This.genruntimeconfig.cache

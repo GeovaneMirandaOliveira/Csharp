@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\14Interface.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\14Interface.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\bin\Debug\net5.0\14Interface.exe
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\bin\Debug\net5.0\14Interface.deps.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\bin\Debug\net5.0\14Interface.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\bin\Debug\net5.0\ref\14Interface.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\bin\Debug\net5.0\14Interface.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\14Interface.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\ref\14Interface.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\14Interface.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\14Interface\obj\Debug\net5.0\14Interface.genruntimeconfig.cache

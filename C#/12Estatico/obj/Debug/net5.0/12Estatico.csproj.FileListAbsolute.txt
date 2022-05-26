@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\bin\Debug\net5.0\12Estatico.exe
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\bin\Debug\net5.0\12Estatico.deps.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\bin\Debug\net5.0\12Estatico.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\bin\Debug\net5.0\12Estatico.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\bin\Debug\net5.0\ref\12Estatico.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\bin\Debug\net5.0\12Estatico.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\12Estatico.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\12Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\12Estatico.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\12Estatico.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\12Estatico.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\ref\12Estatico.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\12Estatico.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\12Estatico\obj\Debug\net5.0\12Estatico.genruntimeconfig.cache

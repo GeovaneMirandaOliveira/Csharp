@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\bin\Debug\net5.0\13Abstração.exe
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\bin\Debug\net5.0\13Abstração.deps.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\bin\Debug\net5.0\13Abstração.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\bin\Debug\net5.0\ref\13Abstração.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\bin\Debug\net5.0\13Abstração.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\13Abstração.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\13Abstração.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\13Abstração.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\ref\13Abstração.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\13Abstração.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\13Abstração\obj\Debug\net5.0\13Abstração.genruntimeconfig.cache

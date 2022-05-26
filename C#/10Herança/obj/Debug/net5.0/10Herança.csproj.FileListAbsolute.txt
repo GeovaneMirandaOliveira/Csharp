@@ -1,0 +1,16 @@
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\10Herança.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\10Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfoInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\10Herança.AssemblyInfo.cs
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\10Herança.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\bin\Debug\net5.0\10Herança.exe
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\bin\Debug\net5.0\10Herança.deps.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\bin\Debug\net5.0\10Herança.runtimeconfig.dev.json
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\bin\Debug\net5.0\10Herança.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\bin\Debug\net5.0\ref\10Herança.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\bin\Debug\net5.0\10Herança.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\10Herança.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\ref\10Herança.dll
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\10Herança.pdb
+C:\Users\Administrador\Desktop\Geovane\VScode\C#\10Herança\obj\Debug\net5.0\10Herança.genruntimeconfig.cache
